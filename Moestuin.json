@@ -1,0 +1,1039 @@
+[{
+        "naam": "Andijvie",
+        "zaaitijd onder glas": "maart tem juli",
+        "zaaitijdBuiten": "april tem augustus",
+        "oogsttijd ": "juli tem november",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "90",
+        "plantafstand": "30",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Artisjokken",
+        "zaaitijd": "maart tem april",
+        "zaaitijdBuiten": "mei",
+        "oogsttijd": "augustus tem september",
+        "zaaienTotKiem": "20",
+        "zaaienTotOogst": "180",
+        "plantafstand": "75",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Bindsla",
+        "zaaitijd": "februari tem juli",
+        "zaaitijdBuiten": "april tem augustus",
+        "oogsttijd": "juni tem september",
+        "zaaienTotKiem": "12",
+        "zaaienTotOogst": "90",
+        "plantafstand": "25",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Ijsbergsla",
+        "zaaitijd": "maart tem juli",
+        "zaaitijdBuiten": "april tem augustus",
+        "oogsttijd": "juni tem november",
+        "zaaienTotKiem": "12",
+        "zaaienTotOogst": "75",
+        "plantafstand": "40",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Kropsla",
+        "zaaitijd": "maart tem april",
+        "zaaitijdBuiten": "mei tem augustus",
+        "oogsttijd": "mei tem november",
+        "zaaienTotKiem": "12",
+        "zaaienTotOogst": "65",
+        "plantafstand": "30",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Veldkers",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "maart tem augustus",
+        "oogsttijd": "mei tem november",
+        "zaaienTotKiem": "14",
+        "zaaienTotOogst": "90",
+        "plantafstand": "30",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Mosterd",
+        "zaaitijd": "maart tem augustus",
+        "zaaitijdBuiten": "maart tem oktober",
+        "oogsttijd": "mei tem november",
+        "zaaienTotKiem": "4",
+        "zaaienTotOogst": "90",
+        "plantafstand": "15",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Nieuw-Zeelandse spinazie",
+        "zaaitijd": "maart tem mei",
+        "zaaitijdBuiten": "juni tem juli",
+        "oogsttijd": "juni tem november",
+        "zaaienTotKiem": "30",
+        "zaaienTotOogst": "100",
+        "plantafstand": "40",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Oost-Indische kers",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "april tem juni",
+        "oogsttijd": "juni tem september",
+        "zaaienTotKiem": "14",
+        "zaaienTotOogst": "85",
+        "plantafstand": "50",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Postelein",
+        "zaaitijd": "april tem augustus",
+        "zaaitijdBuiten": "juli tem augustus",
+        "oogsttijd": "juni tem september",
+        "zaaienTotKiem": "3",
+        "zaaienTotOogst": "28",
+        "plantafstand": "0.5",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Rabarber",
+        "zaaitijd": "april tem mei",
+        "zaaitijdBuiten": "september tem december",
+        "oogsttijd": "april tem augustus",
+        "zaaienTotKiem": "8",
+        "zaaienTotOogst": "360",
+        "plantafstand": "50",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Raapstelen",
+        "zaaitijd": "januari tem februari",
+        "zaaitijdBuiten": "maart tem mei",
+        "oogsttijd": "mei tem november",
+        "zaaienTotKiem": "3",
+        "zaaienTotOogst": "35",
+        "plantafstand": "8",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Sla",
+        "zaaitijd": "februari tem augustus",
+        "zaaitijdBuiten": "april tem augustus",
+        "oogsttijd": "mei tem oktober",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "65",
+        "plantafstand": "30",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Snijbiet",
+        "zaaitijd": "maart tem augustus",
+        "zaaitijdBuiten": "maart tem november",
+        "oogsttijd": "mei tem november",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "70",
+        "plantafstand": "20",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Snijmoes",
+        "zaaitijd": "november tem februari",
+        "zaaitijdBuiten": "februari tem augustus",
+        "oogsttijd": "maart tem september",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "100",
+        "plantafstand": "10",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Snijsla",
+        "zaaitijd": "februari tem maart",
+        "zaaitijdBuiten": "april tem september",
+        "oogsttijd": "april tem november",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "45",
+        "plantafstand": "5",
+        "categorie": "Vruchtgewassen"
+    },
+    {
+        "naam": "Spinazie",
+        "zaaitijd": "januari tem februari",
+        "zaaitijdBuiten": "januari tem augustus",
+        "oogsttijd": "april tem november",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "35",
+        "plantafstand": "5",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Stengelsla(en)",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "maart tem juli",
+        "oogsttijd": "juli tem oktober",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "60",
+        "plantafstand": "20",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Tuinkers",
+        "zaaitijd": "januari tem december",
+        "zaaitijdBuiten": "maart tem oktober",
+        "oogsttijd": "januari tem december",
+        "zaaienTotKiem": "3",
+        "zaaienTotOogst": "12",
+        "plantafstand": "0,3",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Veldsla",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "maart tem september",
+        "oogsttijd": "april tem december",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "75",
+        "plantafstand": "5",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Waterkers",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "april tem juni",
+        "oogsttijd": "april tem november",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "50",
+        "plantafstand": "20",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Winterpostelein",
+        "zaaitijd": "juli tem oktober",
+        "zaaitijdBuiten": "augustus tem oktober",
+        "oogsttijd": "oktober tem maart",
+        "zaaienTotKiem": "3",
+        "zaaienTotOogst": "30",
+        "plantafstand": "",
+        "categorie": "Blad- en steelgewassen"
+    },
+    {
+        "naam": "Aardappel",
+        "zaaitijd": "maart tem april",
+        "zaaitijdBuiten": "april tem juni",
+        "oogsttijd": "juli tem september",
+        "zaaienTotKiem": "20",
+        "zaaienTotOogst": "120",
+        "plantafstand": "40",
+        "categorie": "Knol- en wortelgewassen"
+    },
+    {
+        "naam": "Aardpeer",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "maart tem april",
+        "oogsttijd": "oktober tem november",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "300",
+        "plantafstand": "40",
+        "categorie": "Knol- en wortelgewassen"
+    },
+    {
+        "naam": "Rode Bieten",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "februari tem maart",
+        "oogsttijd": "april tem juni",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "85",
+        "plantafstand": "10",
+        "categorie": "Knol- en wortelgewassen"
+    },
+    {
+        "naam": "Knolselderij",
+        "zaaitijd": "februari tem maart",
+        "zaaitijdBuiten": "april tem mei",
+        "oogsttijd": "september tem december",
+        "zaaienTotKiem": "20",
+        "zaaienTotOogst": "260",
+        "plantafstand": "35",
+        "categorie": "Knol- en wortelgewassen"
+    },
+    {
+        "naam": "Koolraap",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "april tem juni",
+        "oogsttijd": "oktober tem december",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "135",
+        "plantafstand": "35",
+        "categorie": "Knol- en wortelgewassen"
+    },
+    {
+        "naam": "Pastinaak",
+        "zaaitijd": "maart",
+        "zaaitijdBuiten": "april",
+        "oogsttijd": "oktober tem december",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "260",
+        "plantafstand": "30",
+        "categorie": "Knol- en wortelgewassen"
+    },
+    {
+        "naam": "Knolraap",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "maart tem mei",
+        "oogsttijd": "juli tem oktober",
+        "zaaienTotKiem": "12",
+        "zaaienTotOogst": "70",
+        "plantafstand": "10",
+        "categorie": "Knol- en wortelgewassen"
+    },
+    {
+        "naam": "Radijs",
+        "zaaitijd": "maart",
+        "zaaitijdBuiten": "april tem september",
+        "oogsttijd": "april tem oktober",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "40",
+        "plantafstand": "5",
+        "categorie": "Knol- en wortelgewassen"
+    },
+    {
+        "naam": "Rammenas",
+        "zaaitijd": "maart tem augustus",
+        "zaaitijdBuiten": "april tem augustus",
+        "oogsttijd": "mei tem december",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "90",
+        "plantafstand": "15",
+        "categorie": "Knol- en wortelgewassen"
+    },
+    {
+        "naam": "Schorsneren",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "april tem mei",
+        "oogsttijd": "oktober tem februari",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "200",
+        "plantafstand": "10",
+        "categorie": "Knol- en wortelgewassen"
+    },
+    {
+        "naam": "Wortel - Winterpeen",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "mei tem juli",
+        "oogsttijd": "augustus tem december",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "240",
+        "plantafstand": "20",
+        "categorie": "Knol- en wortelgewassen"
+    },
+    {
+        "naam": "Wortel - Zomerpeen",
+        "zaaitijd": "maart tem april",
+        "zaaitijdBuiten": "april tem juli",
+        "oogsttijd": "juni tem september",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "240",
+        "plantafstand": "20",
+        "categorie": "Knol- en wortelgewassen"
+    },
+    {
+        "naam": "Wortelpeterselie",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "april",
+        "oogsttijd": "oktober tem november",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "130",
+        "plantafstand": "10",
+        "categorie": "Knol- en wortelgewassen"
+    },
+    {
+        "naam": "Prei - Zomerteelt",
+        "zaaitijd": "januari",
+        "zaaitijdBuiten": "maart",
+        "oogsttijd": "juli tem september",
+        "zaaienTotKiem": "20",
+        "zaaienTotOogst": "170",
+        "plantafstand": "15",
+        "categorie": "Knol- en wortelgewassen"
+    },
+    {
+        "naam": "Prei - Herfstteelt",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "maart",
+        "oogsttijd": "oktober tem december",
+        "zaaienTotKiem": "20",
+        "zaaienTotOogst": "170",
+        "plantafstand": "15",
+        "categorie": "Knol- en wortelgewassen"
+    },
+    {
+        "naam": "Prei - Winterteelt",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "april",
+        "oogsttijd": "januari tem maart",
+        "zaaienTotKiem": "20",
+        "zaaienTotOogst": "170",
+        "plantafstand": "15",
+        "categorie": "Knol- en wortelgewassen"
+    },
+    {
+        "naam": "Egyptische uien",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "maart",
+        "oogsttijd": "juni tem augustus",
+        "zaaienTotKiem": "12",
+        "zaaienTotOogst": "90",
+        "plantafstand": "15",
+        "categorie": "Ui-achtigen"
+    },
+    {
+        "naam": "Bosui",
+        "zaaitijd": "februari tem juni",
+        "zaaitijdBuiten": "april tem juli",
+        "oogsttijd": "juni tem september",
+        "zaaienTotKiem": "16",
+        "zaaienTotOogst": "100",
+        "plantafstand": "15",
+        "categorie": "Ui-achtigen"
+    },
+    {
+        "naam": "Knoflook",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "oktober tem april",
+        "oogsttijd": "juni tem juli",
+        "zaaienTotKiem": "20",
+        "zaaienTotOogst": "180",
+        "plantafstand": "15",
+        "categorie": "Ui-achtigen"
+    },
+    {
+        "naam": "Sjalot",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "maart tem april",
+        "oogsttijd": "juli tem augustus",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "130",
+        "plantafstand": "10",
+        "categorie": "Ui-achtigen"
+    },
+    {
+        "naam": "Stengelui",
+        "zaaitijd": "januari tem maart",
+        "zaaitijdBuiten": "april tem mei",
+        "oogsttijd": "juli tem oktober",
+        "zaaienTotKiem": "20",
+        "zaaienTotOogst": "170",
+        "plantafstand": "2,5",
+        "categorie": "Ui-achtigen"
+    },
+    {
+        "naam": "Zaai-ui",
+        "zaaitijd": "januari tem maart",
+        "zaaitijdBuiten": "april",
+        "oogsttijd": "september",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "220",
+        "plantafstand": "5",
+        "categorie": "Ui-achtigen"
+    },
+    {
+        "naam": "Plant-ui 1e jaars",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "april",
+        "oogsttijd": "september",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "220",
+        "plantafstand": "5",
+        "categorie": "Ui-achtigen"
+    },
+    {
+        "naam": "Plant-ui 2e jaars",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "april",
+        "oogsttijd": "augustus",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "220",
+        "plantafstand": "5",
+        "categorie": "Ui-achtigen"
+    },
+    {
+        "naam": "Winteruien",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "augustus",
+        "oogsttijd": "mei tem juni",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "220",
+        "plantafstand": "5",
+        "categorie": "Ui-achtigen"
+    },
+    {
+        "naam": "Zilverui",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "maart tem mei",
+        "oogsttijd": "juli tem augustus",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "220",
+        "plantafstand": "5",
+        "categorie": "Ui-achtigen"
+    },
+    {
+        "naam": "Boerenkool",
+        "zaaitijd": "mei tem juni",
+        "zaaitijdBuiten": "juli",
+        "oogsttijd": "augustus tem december",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "160",
+        "plantafstand": "75",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Bloemkool - Vroege Teelt",
+        "zaaitijd": "februari",
+        "zaaitijdBuiten": "april",
+        "oogsttijd": "juli",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "175",
+        "plantafstand": "60",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Bloemkool - Zomerteelt",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "maart tem mei",
+        "oogsttijd": "augustus tem september",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "175",
+        "plantafstand": "60",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Bloemkool - Herfstteelt",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "maart tem mei",
+        "oogsttijd": "oktober tem november",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "175",
+        "plantafstand": "60",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Bloemkool - Winterteelt",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "juli tem augustus",
+        "oogsttijd": "april tem mei",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "175",
+        "plantafstand": "60",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Broccoli - Zomerteelt",
+        "zaaitijd": "februari tem april",
+        "zaaitijdBuiten": "juni",
+        "oogsttijd": "augustus",
+        "zaaienTotKiem": "8",
+        "zaaienTotOogst": "100",
+        "plantafstand": "50",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Broccoli - Winterteelt",
+        "zaaitijd": "april",
+        "zaaitijdBuiten": "juni",
+        "oogsttijd": "oktober tem april",
+        "zaaienTotKiem": "8",
+        "zaaienTotOogst": "100",
+        "plantafstand": "50",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Chinese Kool",
+        "zaaitijd": "maart tem juli",
+        "zaaitijdBuiten": "april tem augustus",
+        "oogsttijd": "juni tem oktober",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "90",
+        "plantafstand": "30",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Romanesco",
+        "zaaitijd": "april tem juli",
+        "zaaitijdBuiten": "april tem juli",
+        "oogsttijd": "juli tem november",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "110",
+        "plantafstand": "60",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Koolrabi",
+        "zaaitijd": "maart tem juli",
+        "zaaitijdBuiten": "april tem augustus",
+        "oogsttijd": "juni tem november",
+        "zaaienTotKiem": "8",
+        "zaaienTotOogst": "85",
+        "plantafstand": "25",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Paksoi",
+        "zaaitijd": "maart tem augustus",
+        "zaaitijdBuiten": "april tem augustus",
+        "oogsttijd": "mei tem oktober",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "90",
+        "plantafstand": "25",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Rode kool - Vroege teelt",
+        "zaaitijd": "januari",
+        "zaaitijdBuiten": "april",
+        "oogsttijd": "mei tem juni",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "160",
+        "plantafstand": "50",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Rode Kool - Zomerteelt",
+        "zaaitijd": "maart",
+        "zaaitijdBuiten": "mei",
+        "oogsttijd": "juli tem augustus",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "160",
+        "plantafstand": "50",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Rode Kool - Herfstteelt",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "april",
+        "oogsttijd": "september tem november",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "160",
+        "plantafstand": "50",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Spitskool - Vroege teelt",
+        "zaaitijd": "januari",
+        "zaaitijdBuiten": "april",
+        "oogsttijd": "mei tem juni",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "120",
+        "plantafstand": "50",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Spitskool - Zomerteelt",
+        "zaaitijd": "maart",
+        "zaaitijdBuiten": "mei",
+        "oogsttijd": "juli tem augustus",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "120",
+        "plantafstand": "50",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Spitskool - Herfstteelt",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "april",
+        "oogsttijd": "september tem november",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "120",
+        "plantafstand": "50",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Spitskool - Winterteelt",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "augustus",
+        "oogsttijd": "april tem mei",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "120",
+        "plantafstand": "50",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Savooiekool - Vroege teelt",
+        "zaaitijd": "januari",
+        "zaaitijdBuiten": "april",
+        "oogsttijd": "mei - juni",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "160",
+        "plantafstand": "60",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Savooiekool - Zomerteelt",
+        "zaaitijd": "maart",
+        "zaaitijdBuiten": "mei",
+        "oogsttijd": "juli tem augustus",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "160",
+        "plantafstand": "60",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Savooiekool - Herfstteelt",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "april",
+        "oogsttijd": "september tem november",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "160",
+        "plantafstand": "60",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Savooiekool - Winterteelt",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "augustus",
+        "oogsttijd": "april tem mei",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "160",
+        "plantafstand": "60",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Spruitjes",
+        "zaaitijd": "februari tem april",
+        "zaaitijdBuiten": "mei tem juni",
+        "oogsttijd": "september tem december",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "250",
+        "plantafstand": "60",
+        "categorie": "Koolsoorten"
+    },
+    {
+        "naam": "Asperge-erwt",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "maar tem juni",
+        "oogsttijd": "juli tem september",
+        "zaaienTotKiem": "12",
+        "zaaienTotOogst": "120",
+        "plantafstand": "5",
+        "categorie": "Peulvruchten"
+    },
+    {
+        "naam": "Kapucijner",
+        "zaaitijd": "februari",
+        "zaaitijdBuiten": "maart",
+        "oogsttijd": "juli",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "70",
+        "plantafstand": "5",
+        "categorie": "Peulvruchten"
+    },
+    {
+        "naam": "Doperwt",
+        "zaaitijd": "februari tem maart",
+        "zaaitijdBuiten": "april tem mei",
+        "oogsttijd": "juni tem juli",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "70",
+        "plantafstand": "5",
+        "categorie": "Peulvruchten"
+    },
+    {
+        "naam": "Peultjes",
+        "zaaitijd": "maart",
+        "zaaitijdBuiten": "april",
+        "oogsttijd": "juni tem juli",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "70",
+        "plantafstand": "5",
+        "categorie": "Peulvruchten"
+    },
+    {
+        "naam": "Pronkboon",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "mei tem juni",
+        "oogsttijd": "augustus tem september",
+        "zaaienTotKiem": "12",
+        "zaaienTotOogst": "90",
+        "plantafstand": "5",
+        "categorie": "Peulvruchten"
+    },
+    {
+        "naam": "Slabonen",
+        "zaaitijd": "maart tem april",
+        "zaaitijdBuiten": "mei tem juli",
+        "oogsttijd": "augustus tem september",
+        "zaaienTotKiem": "14",
+        "zaaienTotOogst": "70",
+        "plantafstand": "10",
+        "categorie": "Peulvruchten"
+    },
+    {
+        "naam": "Snijbonen",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "maart tem april",
+        "oogsttijd": "september",
+        "zaaienTotKiem": "14",
+        "zaaienTotOogst": "70",
+        "plantafstand": "10",
+        "categorie": "Peulvruchten"
+    },
+    {
+        "naam": "Stamsperzieboon",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "mei tem juni",
+        "oogsttijd": "juli tem september",
+        "zaaienTotKiem": "14",
+        "zaaienTotOogst": "70",
+        "plantafstand": "10",
+        "categorie": "Peulvruchten"
+    },
+    {
+        "naam": "Stamsnijboon",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "maart tem april",
+        "oogsttijd": "juli tem september",
+        "zaaienTotKiem": "14",
+        "zaaienTotOogst": "70",
+        "plantafstand": "10",
+        "categorie": "Peulvruchten"
+    },
+    {
+        "naam": "Stoksnijboon",
+        "zaaitijd": "mei",
+        "zaaitijdBuiten": "juni",
+        "oogsttijd": "juli tem september",
+        "zaaienTotKiem": "14",
+        "zaaienTotOogst": "70",
+        "plantafstand": "10",
+        "categorie": "Peulvruchten"
+    },
+    {
+        "naam": "Stoksperzieboon",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "mei tem juli",
+        "oogsttijd": "augustus tem september",
+        "zaaienTotKiem": "14",
+        "zaaienTotOogst": "70",
+        "plantafstand": "10",
+        "categorie": "Peulvruchten"
+    },
+    {
+        "naam": "Tuinbonen",
+        "zaaitijd": "januari tem februari",
+        "zaaitijdBuiten": "maart tem april",
+        "oogsttijd": "juni tem augustus",
+        "zaaienTotKiem": "14",
+        "zaaienTotOogst": "70",
+        "plantafstand": "10",
+        "categorie": "Peulvruchten"
+    },
+    {
+        "naam": "Bleekselderij",
+        "zaaitijd": "februari tem maart",
+        "zaaitijdBuiten": "april tem mei",
+        "oogsttijd": "augustus tem november",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "160",
+        "plantafstand": "35",
+        "categorie": "Gebleekte Gewassen"
+    },
+    {
+        "naam": "Groenlof",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "juni tem juli",
+        "oogsttijd": "oktober tem november",
+        "zaaienTotKiem": "4",
+        "zaaienTotOogst": "100",
+        "plantafstand": "30",
+        "categorie": "Gebleekte Gewassen"
+    },
+    {
+        "naam": "Roodlof - Herfstteelt",
+        "zaaitijd": "februari tem maart",
+        "zaaitijdBuiten": "juni tem juli",
+        "oogsttijd": "oktober tem november",
+        "zaaienTotKiem": "4",
+        "zaaienTotOogst": "120",
+        "plantafstand": "25",
+        "categorie": "Gebleekte Gewassen"
+    },
+    {
+        "naam": "Roodlof - Winterteelt",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "juli tem september",
+        "oogsttijd": "februari tem mei",
+        "zaaienTotKiem": "4",
+        "zaaienTotOogst": "120",
+        "plantafstand": "25",
+        "categorie": "Gebleekte Gewassen"
+    },
+    {
+        "naam": "Witlof",
+        "zaaitijd": "april",
+        "zaaitijdBuiten": "mei tem juni",
+        "oogsttijd": "september tem januari",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "280",
+        "plantafstand": "10",
+        "categorie": "Gebleekte Gewassen"
+    },
+    {
+        "naam": "Aardbeien",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "augustus tem september",
+        "oogsttijd": "juni tem oktober",
+        "zaaienTotKiem": "20",
+        "zaaienTotOogst": "170",
+        "plantafstand": "35",
+        "categorie": "Vruchtgewassen"
+    },
+    {
+        "naam": "Aubergine",
+        "zaaitijd": "maart tem april",
+        "zaaitijdBuiten": "juni",
+        "oogsttijd": "september tem oktober",
+        "zaaienTotKiem": "40",
+        "zaaienTotOogst": "90",
+        "plantafstand": "80",
+        "categorie": "Vruchtgewassen"
+    },
+    {
+        "naam": "Augurken",
+        "zaaitijd": "april",
+        "zaaitijdBuiten": "mei tem juni",
+        "oogsttijd": "juli tem september",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "90",
+        "plantafstand": "15",
+        "categorie": "Vruchtgewassen"
+    },
+    {
+        "naam": "Blauwe Bes",
+        "zaaitijd": "januari tem april",
+        "zaaitijdBuiten": "",
+        "oogsttijd": "juli tem september",
+        "zaaienTotKiem": "45",
+        "zaaienTotOogst": "730",
+        "plantafstand": "75",
+        "categorie": "Vruchtgewassen"
+    },
+    {
+        "naam": "Bosaardbei",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "",
+        "oogsttijd": "mei tem juli",
+        "zaaienTotKiem": "",
+        "zaaienTotOogst": "",
+        "plantafstand": "",
+        "categorie": "Vruchtgewassen"
+    },
+    {
+        "naam": "Bramen",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "",
+        "oogsttijd": "juli tem oktober",
+        "zaaienTotKiem": "",
+        "zaaienTotOogst": "",
+        "plantafstand": "",
+        "categorie": "Vruchtgewassen"
+    },
+    {
+        "naam": "Courgette",
+        "zaaitijd": "april tem juni",
+        "zaaitijdBuiten": "mei tem juli",
+        "oogsttijd": "september tem november",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "95",
+        "plantafstand": "100",
+        "categorie": "Vruchtgewassen"
+    },
+    {
+        "naam": "Frambozen",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "",
+        "oogsttijd": "juli tem oktober",
+        "zaaienTotKiem": "",
+        "zaaienTotOogst": "",
+        "plantafstand": "",
+        "categorie": "Vruchtgewassen"
+    },
+    {
+        "naam": "Komkommers",
+        "zaaitijd": "april",
+        "zaaitijdBuiten": "mei tem juni",
+        "oogsttijd": "juli tem oktober",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "100",
+        "plantafstand": "15",
+        "categorie": "Vruchtgewassen"
+    },
+    {
+        "naam": "Maïs",
+        "zaaitijd": "april tem mei",
+        "zaaitijdBuiten": "mei tem juni",
+        "oogsttijd": "juni tem september",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "130",
+        "plantafstand": "40",
+        "categorie": "Vruchtgewassen"
+    },
+    {
+        "naam": "Meloen",
+        "zaaitijd": "april tem juni",
+        "zaaitijdBuiten": "juni",
+        "oogsttijd": "augustus tem oktober",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "150",
+        "plantafstand": "30",
+        "categorie": "Vruchtgewassen"
+    },
+    {
+        "naam": "Pompoen",
+        "zaaitijd": "april",
+        "zaaitijdBuiten": "mei",
+        "oogsttijd": "augustus tem september",
+        "zaaienTotKiem": "20",
+        "zaaienTotOogst": "140",
+        "plantafstand": "100",
+        "categorie": "Vruchtgewassen"
+    },
+    {
+        "naam": "Peper",
+        "zaaitijd": "maart tem april",
+        "zaaitijdBuiten": "juni",
+        "oogsttijd": "augustus tem oktober",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "180",
+        "plantafstand": "45",
+        "categorie": "Vruchtgewassen"
+    },
+    {
+        "naam": "Suikermaïs",
+        "zaaitijd": "april tem mei",
+        "zaaitijdBuiten": "juni",
+        "oogsttijd": "augustus tem oktober",
+        "zaaienTotKiem": "15",
+        "zaaienTotOogst": "130",
+        "plantafstand": "40",
+        "categorie": "Vruchtgewassen"
+    },
+    {
+        "naam": "Tomaten",
+        "zaaitijd": "februari tem maart",
+        "zaaitijdBuiten": "mei",
+        "oogsttijd": "juli tem oktober",
+        "zaaienTotKiem": "10",
+        "zaaienTotOogst": "130",
+        "plantafstand": "45",
+        "categorie": "Vruchtgewassen"
+    },
+    {
+        "naam": "",
+        "zaaitijd": "",
+        "zaaitijdBuiten": "",
+        "oogsttijd": "",
+        "plantafstand": "",
+        "categorie": "Vruchtgewassen"
+    }
+]
