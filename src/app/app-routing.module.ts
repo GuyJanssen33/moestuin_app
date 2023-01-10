@@ -1,6 +1,10 @@
 import { NgModule } from '@angular/core';
 import { PreloadAllModules, RouterModule, Routes } from '@angular/router';
 
+import {AppComponent} from "./app.component";
+import {BrowserModule} from "@angular/platform-browser";
+import {IonicModule} from "@ionic/angular";
+
 const routes: Routes = [
   {
     path: 'home',
@@ -12,6 +16,7 @@ const routes: Routes = [
     pathMatch: 'full'
   },
 ];
+
 
 @NgModule({
   imports: [

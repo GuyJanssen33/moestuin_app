@@ -2,21 +2,23 @@
         "naam": "Andijvie",
         "zaaitijd onder glas": "maart tem juli",
         "zaaitijdBuiten": "april tem augustus",
-        "oogsttijd ": "juli tem november",
+        "oogsttijd ": "01/06 tem 31/11",
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "90",
         "plantafstand": "30",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Andijvie"
     },
     {
         "naam": "Artisjokken",
-        "zaaitijd": "maart tem april",
-        "zaaitijdBuiten": "mei",
+        "zaaitijd": "01/03 tem 30/04",
+        "zaaitijdBuiten": "01/05 - 31/03",
         "oogsttijd": "augustus tem september",
         "zaaienTotKiem": "20",
         "zaaienTotOogst": "180",
         "plantafstand": "75",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Artisjok"
     },
     {
         "naam": "Bindsla",
@@ -26,7 +28,8 @@
         "zaaienTotKiem": "12",
         "zaaienTotOogst": "90",
         "plantafstand": "25",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Bindsla"
     },
     {
         "naam": "Ijsbergsla",
@@ -36,17 +39,19 @@
         "zaaienTotKiem": "12",
         "zaaienTotOogst": "75",
         "plantafstand": "40",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Ijsbergsla"
     },
     {
         "naam": "Kropsla",
-        "zaaitijd": "maart tem april",
+        "zaaitijd": "01/03 tem april",
         "zaaitijdBuiten": "mei tem augustus",
         "oogsttijd": "mei tem november",
         "zaaienTotKiem": "12",
         "zaaienTotOogst": "65",
         "plantafstand": "30",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Kropsla"
     },
     {
         "naam": "Veldkers",
@@ -56,7 +61,8 @@
         "zaaienTotKiem": "14",
         "zaaienTotOogst": "90",
         "plantafstand": "30",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Veldkers"
     },
     {
         "naam": "Mosterd",
@@ -66,7 +72,8 @@
         "zaaienTotKiem": "4",
         "zaaienTotOogst": "90",
         "plantafstand": "15",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Mosterd"
     },
     {
         "naam": "Nieuw-Zeelandse spinazie",
@@ -76,7 +83,8 @@
         "zaaienTotKiem": "30",
         "zaaienTotOogst": "100",
         "plantafstand": "40",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Nieuw-Zeelandse_spinazie"
     },
     {
         "naam": "Oost-Indische kers",
@@ -86,7 +94,8 @@
         "zaaienTotKiem": "14",
         "zaaienTotOogst": "85",
         "plantafstand": "50",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Oost-Indische_kers"
     },
     {
         "naam": "Postelein",
@@ -96,7 +105,8 @@
         "zaaienTotKiem": "3",
         "zaaienTotOogst": "28",
         "plantafstand": "0.5",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Postelein"
     },
     {
         "naam": "Rabarber",
@@ -106,7 +116,8 @@
         "zaaienTotKiem": "8",
         "zaaienTotOogst": "360",
         "plantafstand": "50",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Rabarber"
     },
     {
         "naam": "Raapstelen",
@@ -116,7 +127,8 @@
         "zaaienTotKiem": "3",
         "zaaienTotOogst": "35",
         "plantafstand": "8",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Raapstelen"
     },
     {
         "naam": "Sla",
@@ -126,7 +138,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "65",
         "plantafstand": "30",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Sla"
     },
     {
         "naam": "Snijbiet",
@@ -136,7 +149,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "70",
         "plantafstand": "20",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Snijbiet"
     },
     {
         "naam": "Snijmoes",
@@ -146,7 +160,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "100",
         "plantafstand": "10",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Snijmoes"
     },
     {
         "naam": "Snijsla",
@@ -156,7 +171,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "45",
         "plantafstand": "5",
-        "categorie": "Vruchtgewassen"
+        "categorie": "Vruchtgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Snijsla"
     },
     {
         "naam": "Spinazie",
@@ -166,7 +182,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "35",
         "plantafstand": "5",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Spinazie"
     },
     {
         "naam": "Stengelsla(en)",
@@ -176,7 +193,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "60",
         "plantafstand": "20",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Stengelsla"
     },
     {
         "naam": "Tuinkers",
@@ -186,7 +204,8 @@
         "zaaienTotKiem": "3",
         "zaaienTotOogst": "12",
         "plantafstand": "0,3",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Tuinkers"
     },
     {
         "naam": "Veldsla",
@@ -196,7 +215,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "75",
         "plantafstand": "5",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Veldsla"
     },
     {
         "naam": "Waterkers",
@@ -206,7 +226,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "50",
         "plantafstand": "20",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Waterkers"
     },
     {
         "naam": "Winterpostelein",
@@ -216,27 +237,30 @@
         "zaaienTotKiem": "3",
         "zaaienTotOogst": "30",
         "plantafstand": "",
-        "categorie": "Blad- en steelgewassen"
+        "categorie": "Blad- en steelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Winterpostelein"
     },
     {
         "naam": "Aardappel",
-        "zaaitijd": "maart tem april",
+        "zaaitijd": "01/03 tem april",
         "zaaitijdBuiten": "april tem juni",
         "oogsttijd": "juli tem september",
         "zaaienTotKiem": "20",
         "zaaienTotOogst": "120",
         "plantafstand": "40",
-        "categorie": "Knol- en wortelgewassen"
+        "categorie": "Knol- en wortelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Aardappel"
     },
     {
         "naam": "Aardpeer",
         "zaaitijd": "",
-        "zaaitijdBuiten": "maart tem april",
+        "zaaitijdBuiten": "01/03 tem april",
         "oogsttijd": "oktober tem november",
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "300",
         "plantafstand": "40",
-        "categorie": "Knol- en wortelgewassen"
+        "categorie": "Knol- en wortelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Aardpeer"
     },
     {
         "naam": "Rode Bieten",
@@ -246,7 +270,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "85",
         "plantafstand": "10",
-        "categorie": "Knol- en wortelgewassen"
+        "categorie": "Knol- en wortelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Rode_biet"
     },
     {
         "naam": "Knolselderij",
@@ -256,7 +281,8 @@
         "zaaienTotKiem": "20",
         "zaaienTotOogst": "260",
         "plantafstand": "35",
-        "categorie": "Knol- en wortelgewassen"
+        "categorie": "Knol- en wortelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Knolselderij"
     },
     {
         "naam": "Koolraap",
@@ -266,7 +292,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "135",
         "plantafstand": "35",
-        "categorie": "Knol- en wortelgewassen"
+        "categorie": "Knol- en wortelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Koolraap"
     },
     {
         "naam": "Pastinaak",
@@ -276,7 +303,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "260",
         "plantafstand": "30",
-        "categorie": "Knol- en wortelgewassen"
+        "categorie": "Knol- en wortelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Pastinaak"
     },
     {
         "naam": "Knolraap",
@@ -286,7 +314,8 @@
         "zaaienTotKiem": "12",
         "zaaienTotOogst": "70",
         "plantafstand": "10",
-        "categorie": "Knol- en wortelgewassen"
+        "categorie": "Knol- en wortelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Knolraap"
     },
     {
         "naam": "Radijs",
@@ -296,7 +325,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "40",
         "plantafstand": "5",
-        "categorie": "Knol- en wortelgewassen"
+        "categorie": "Knol- en wortelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Radijs"
     },
     {
         "naam": "Rammenas",
@@ -306,7 +336,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "90",
         "plantafstand": "15",
-        "categorie": "Knol- en wortelgewassen"
+        "categorie": "Knol- en wortelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Rammenas"
     },
     {
         "naam": "Schorsneren",
@@ -316,7 +347,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "200",
         "plantafstand": "10",
-        "categorie": "Knol- en wortelgewassen"
+        "categorie": "Knol- en wortelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Grote_schorseneer"
     },
     {
         "naam": "Wortel - Winterpeen",
@@ -326,17 +358,19 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "240",
         "plantafstand": "20",
-        "categorie": "Knol- en wortelgewassen"
+        "categorie": "Knol- en wortelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Winterpeen"
     },
     {
         "naam": "Wortel - Zomerpeen",
-        "zaaitijd": "maart tem april",
+        "zaaitijd": "01/03 tem april",
         "zaaitijdBuiten": "april tem juli",
         "oogsttijd": "juni tem september",
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "240",
         "plantafstand": "20",
-        "categorie": "Knol- en wortelgewassen"
+        "categorie": "Knol- en wortelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Zomerpeen"
     },
     {
         "naam": "Wortelpeterselie",
@@ -346,7 +380,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "130",
         "plantafstand": "10",
-        "categorie": "Knol- en wortelgewassen"
+        "categorie": "Knol- en wortelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Wortelpeterselie"
     },
     {
         "naam": "Prei - Zomerteelt",
@@ -356,7 +391,8 @@
         "zaaienTotKiem": "20",
         "zaaienTotOogst": "170",
         "plantafstand": "15",
-        "categorie": "Knol- en wortelgewassen"
+        "categorie": "Knol- en wortelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Prei"
     },
     {
         "naam": "Prei - Herfstteelt",
@@ -366,7 +402,8 @@
         "zaaienTotKiem": "20",
         "zaaienTotOogst": "170",
         "plantafstand": "15",
-        "categorie": "Knol- en wortelgewassen"
+        "categorie": "Knol- en wortelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Prei"
     },
     {
         "naam": "Prei - Winterteelt",
@@ -376,7 +413,8 @@
         "zaaienTotKiem": "20",
         "zaaienTotOogst": "170",
         "plantafstand": "15",
-        "categorie": "Knol- en wortelgewassen"
+        "categorie": "Knol- en wortelgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Prei"
     },
     {
         "naam": "Egyptische uien",
@@ -386,7 +424,8 @@
         "zaaienTotKiem": "12",
         "zaaienTotOogst": "90",
         "plantafstand": "15",
-        "categorie": "Ui-achtigen"
+        "categorie": "Ui-achtigen",
+        "details": "https://nl.wikipedia.org/wiki/Egyptische_ui"
     },
     {
         "naam": "Bosui",
@@ -396,7 +435,8 @@
         "zaaienTotKiem": "16",
         "zaaienTotOogst": "100",
         "plantafstand": "15",
-        "categorie": "Ui-achtigen"
+        "categorie": "Ui-achtigen",
+        "details": "https://nl.wikipedia.org/wiki/Bosui"
     },
     {
         "naam": "Knoflook",
@@ -406,17 +446,19 @@
         "zaaienTotKiem": "20",
         "zaaienTotOogst": "180",
         "plantafstand": "15",
-        "categorie": "Ui-achtigen"
+        "categorie": "Ui-achtigen",
+        "details": "https://nl.wikipedia.org/wiki/Knoflook"
     },
     {
         "naam": "Sjalot",
         "zaaitijd": "",
-        "zaaitijdBuiten": "maart tem april",
+        "zaaitijdBuiten": "01/03 tem april",
         "oogsttijd": "juli tem augustus",
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "130",
         "plantafstand": "10",
-        "categorie": "Ui-achtigen"
+        "categorie": "Ui-achtigen",
+        "details": "https://nl.wikipedia.org/wiki/Sjalot"
     },
     {
         "naam": "Stengelui",
@@ -426,7 +468,8 @@
         "zaaienTotKiem": "20",
         "zaaienTotOogst": "170",
         "plantafstand": "2,5",
-        "categorie": "Ui-achtigen"
+        "categorie": "Ui-achtigen",
+        "details": "https://nl.wikipedia.org/wiki/Stengelui"
     },
     {
         "naam": "Zaai-ui",
@@ -436,7 +479,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "220",
         "plantafstand": "5",
-        "categorie": "Ui-achtigen"
+        "categorie": "Ui-achtigen",
+        "details": "https://nl.wikipedia.org/wiki/Zaai-ui"
     },
     {
         "naam": "Plant-ui 1e jaars",
@@ -446,7 +490,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "220",
         "plantafstand": "5",
-        "categorie": "Ui-achtigen"
+        "categorie": "Ui-achtigen",
+        "details": ""
     },
     {
         "naam": "Plant-ui 2e jaars",
@@ -456,7 +501,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "220",
         "plantafstand": "5",
-        "categorie": "Ui-achtigen"
+        "categorie": "Ui-achtigen",
+        "details": ""
     },
     {
         "naam": "Winteruien",
@@ -476,7 +522,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "220",
         "plantafstand": "5",
-        "categorie": "Ui-achtigen"
+        "categorie": "Ui-achtigen",
+        "details": ""
     },
     {
         "naam": "Boerenkool",
@@ -486,7 +533,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "160",
         "plantafstand": "75",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Boerenkool"
     },
     {
         "naam": "Bloemkool - Vroege Teelt",
@@ -496,7 +544,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "175",
         "plantafstand": "60",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Bloemkool"
     },
     {
         "naam": "Bloemkool - Zomerteelt",
@@ -506,7 +555,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "175",
         "plantafstand": "60",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Bloemkool"
     },
     {
         "naam": "Bloemkool - Herfstteelt",
@@ -516,7 +566,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "175",
         "plantafstand": "60",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Bloemkool"
     },
     {
         "naam": "Bloemkool - Winterteelt",
@@ -526,7 +577,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "175",
         "plantafstand": "60",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Bloemkool"
     },
     {
         "naam": "Broccoli - Zomerteelt",
@@ -536,7 +588,8 @@
         "zaaienTotKiem": "8",
         "zaaienTotOogst": "100",
         "plantafstand": "50",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Broccoli"
     },
     {
         "naam": "Broccoli - Winterteelt",
@@ -546,7 +599,8 @@
         "zaaienTotKiem": "8",
         "zaaienTotOogst": "100",
         "plantafstand": "50",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Broccoli"
     },
     {
         "naam": "Chinese Kool",
@@ -556,7 +610,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "90",
         "plantafstand": "30",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Chinese_kool"
     },
     {
         "naam": "Romanesco",
@@ -566,7 +621,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "110",
         "plantafstand": "60",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Romanesco"
     },
     {
         "naam": "Koolrabi",
@@ -576,7 +632,8 @@
         "zaaienTotKiem": "8",
         "zaaienTotOogst": "85",
         "plantafstand": "25",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Koolrabi"
     },
     {
         "naam": "Paksoi",
@@ -586,7 +643,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "90",
         "plantafstand": "25",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Paksoi"
     },
     {
         "naam": "Rode kool - Vroege teelt",
@@ -596,7 +654,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "160",
         "plantafstand": "50",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Rode_kool"
     },
     {
         "naam": "Rode Kool - Zomerteelt",
@@ -606,7 +665,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "160",
         "plantafstand": "50",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Rode_kool"
     },
     {
         "naam": "Rode Kool - Herfstteelt",
@@ -616,7 +676,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "160",
         "plantafstand": "50",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Rode_kool"
     },
     {
         "naam": "Spitskool - Vroege teelt",
@@ -626,7 +687,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "120",
         "plantafstand": "50",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Spitskool"
     },
     {
         "naam": "Spitskool - Zomerteelt",
@@ -636,7 +698,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "120",
         "plantafstand": "50",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Spitskool"
     },
     {
         "naam": "Spitskool - Herfstteelt",
@@ -646,7 +709,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "120",
         "plantafstand": "50",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Spitskool"
     },
     {
         "naam": "Spitskool - Winterteelt",
@@ -656,7 +720,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "120",
         "plantafstand": "50",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Spitskool"
     },
     {
         "naam": "Savooiekool - Vroege teelt",
@@ -666,7 +731,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "160",
         "plantafstand": "60",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Savooiekool"
     },
     {
         "naam": "Savooiekool - Zomerteelt",
@@ -676,7 +742,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "160",
         "plantafstand": "60",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Savooiekool"
     },
     {
         "naam": "Savooiekool - Herfstteelt",
@@ -686,7 +753,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "160",
         "plantafstand": "60",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Savooiekool"
     },
     {
         "naam": "Savooiekool - Winterteelt",
@@ -696,7 +764,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "160",
         "plantafstand": "60",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Savooiekool"
     },
     {
         "naam": "Spruitjes",
@@ -706,7 +775,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "250",
         "plantafstand": "60",
-        "categorie": "Koolsoorten"
+        "categorie": "Koolsoorten",
+        "details": "https://nl.wikipedia.org/wiki/Spruitjes"
     },
     {
         "naam": "Asperge-erwt",
@@ -716,7 +786,8 @@
         "zaaienTotKiem": "12",
         "zaaienTotOogst": "120",
         "plantafstand": "5",
-        "categorie": "Peulvruchten"
+        "categorie": "Peulvruchten",
+        "details": "https://nl.wikipedia.org/wiki/Asperge-erwt"
     },
     {
         "naam": "Kapucijner",
@@ -726,7 +797,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "70",
         "plantafstand": "5",
-        "categorie": "Peulvruchten"
+        "categorie": "Peulvruchten",
+        "details": "https://nl.wikipedia.org/wiki/Kapucijner"
     },
     {
         "naam": "Doperwt",
@@ -736,7 +808,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "70",
         "plantafstand": "5",
-        "categorie": "Peulvruchten"
+        "categorie": "Peulvruchten",
+        "details": "https://nl.wikipedia.org/wiki/Doperwt"
     },
     {
         "naam": "Peultjes",
@@ -746,7 +819,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "70",
         "plantafstand": "5",
-        "categorie": "Peulvruchten"
+        "categorie": "Peulvruchten",
+        "details": "https://nl.wikipedia.org/wiki/Peultjes"
     },
     {
         "naam": "Pronkboon",
@@ -756,27 +830,30 @@
         "zaaienTotKiem": "12",
         "zaaienTotOogst": "90",
         "plantafstand": "5",
-        "categorie": "Peulvruchten"
+        "categorie": "Peulvruchten",
+        "details": "https://nl.wikipedia.org/wiki/Pronkboon"
     },
     {
         "naam": "Slabonen",
-        "zaaitijd": "maart tem april",
+        "zaaitijd": "01/03 tem april",
         "zaaitijdBuiten": "mei tem juli",
         "oogsttijd": "augustus tem september",
         "zaaienTotKiem": "14",
         "zaaienTotOogst": "70",
         "plantafstand": "10",
-        "categorie": "Peulvruchten"
+        "categorie": "Peulvruchten",
+        "details": "https://nl.wikipedia.org/wiki/Slabonen"
     },
     {
         "naam": "Snijbonen",
         "zaaitijd": "",
-        "zaaitijdBuiten": "maart tem april",
+        "zaaitijdBuiten": "01/03 tem april",
         "oogsttijd": "september",
         "zaaienTotKiem": "14",
         "zaaienTotOogst": "70",
         "plantafstand": "10",
-        "categorie": "Peulvruchten"
+        "categorie": "Peulvruchten",
+        "details": "https://nl.wikipedia.org/wiki/Snijbonen"
     },
     {
         "naam": "Stamsperzieboon",
@@ -786,17 +863,19 @@
         "zaaienTotKiem": "14",
         "zaaienTotOogst": "70",
         "plantafstand": "10",
-        "categorie": "Peulvruchten"
+        "categorie": "Peulvruchten",
+        "details": "https://nl.wikipedia.org/wiki/Stamsperzieboon"
     },
     {
         "naam": "Stamsnijboon",
         "zaaitijd": "",
-        "zaaitijdBuiten": "maart tem april",
+        "zaaitijdBuiten": "01/03 tem april",
         "oogsttijd": "juli tem september",
         "zaaienTotKiem": "14",
         "zaaienTotOogst": "70",
         "plantafstand": "10",
-        "categorie": "Peulvruchten"
+        "categorie": "Peulvruchten",
+        "details": "https://nl.wikipedia.org/wiki/Stamsnijboon"
     },
     {
         "naam": "Stoksnijboon",
@@ -806,7 +885,8 @@
         "zaaienTotKiem": "14",
         "zaaienTotOogst": "70",
         "plantafstand": "10",
-        "categorie": "Peulvruchten"
+        "categorie": "Peulvruchten",
+        "details": "https://nl.wikipedia.org/wiki/Stoksnijboon"
     },
     {
         "naam": "Stoksperzieboon",
@@ -816,17 +896,19 @@
         "zaaienTotKiem": "14",
         "zaaienTotOogst": "70",
         "plantafstand": "10",
-        "categorie": "Peulvruchten"
+        "categorie": "Peulvruchten",
+        "details": "https://nl.wikipedia.org/wiki/Stoksperzieboon"
     },
     {
         "naam": "Tuinbonen",
         "zaaitijd": "januari tem februari",
-        "zaaitijdBuiten": "maart tem april",
+        "zaaitijdBuiten": "01/03 tem april",
         "oogsttijd": "juni tem augustus",
         "zaaienTotKiem": "14",
         "zaaienTotOogst": "70",
         "plantafstand": "10",
-        "categorie": "Peulvruchten"
+        "categorie": "Peulvruchten",
+        "details": "https://nl.wikipedia.org/wiki/Tuinbonen"
     },
     {
         "naam": "Bleekselderij",
@@ -836,7 +918,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "160",
         "plantafstand": "35",
-        "categorie": "Gebleekte Gewassen"
+        "categorie": "Gebleekte Gewassen",
+        "details": "https://nl.wikipedia.org/wiki/Bleekselderij"
     },
     {
         "naam": "Groenlof",
@@ -846,7 +929,8 @@
         "zaaienTotKiem": "4",
         "zaaienTotOogst": "100",
         "plantafstand": "30",
-        "categorie": "Gebleekte Gewassen"
+        "categorie": "Gebleekte Gewassen",
+        "details": "https://nl.wikipedia.org/wiki/Groenlof"
     },
     {
         "naam": "Roodlof - Herfstteelt",
@@ -856,7 +940,8 @@
         "zaaienTotKiem": "4",
         "zaaienTotOogst": "120",
         "plantafstand": "25",
-        "categorie": "Gebleekte Gewassen"
+        "categorie": "Gebleekte Gewassen",
+        "details": "https://nl.wikipedia.org/wiki/Roodlof"
     },
     {
         "naam": "Roodlof - Winterteelt",
@@ -866,7 +951,8 @@
         "zaaienTotKiem": "4",
         "zaaienTotOogst": "120",
         "plantafstand": "25",
-        "categorie": "Gebleekte Gewassen"
+        "categorie": "Gebleekte Gewassen",
+        "details": "https://nl.wikipedia.org/wiki/Roodlof"
     },
     {
         "naam": "Witlof",
@@ -876,7 +962,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "280",
         "plantafstand": "10",
-        "categorie": "Gebleekte Gewassen"
+        "categorie": "Gebleekte Gewassen",
+        "details": "https://nl.wikipedia.org/wiki/Witlof"
     },
     {
         "naam": "Aardbeien",
@@ -886,17 +973,19 @@
         "zaaienTotKiem": "20",
         "zaaienTotOogst": "170",
         "plantafstand": "35",
-        "categorie": "Vruchtgewassen"
+        "categorie": "Vruchtgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Aardbei"
     },
     {
         "naam": "Aubergine",
-        "zaaitijd": "maart tem april",
+        "zaaitijd": "01/03 tem april",
         "zaaitijdBuiten": "juni",
         "oogsttijd": "september tem oktober",
         "zaaienTotKiem": "40",
         "zaaienTotOogst": "90",
         "plantafstand": "80",
-        "categorie": "Vruchtgewassen"
+        "categorie": "Vruchtgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Aubergine"
     },
     {
         "naam": "Augurken",
@@ -906,7 +995,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "90",
         "plantafstand": "15",
-        "categorie": "Vruchtgewassen"
+        "categorie": "Vruchtgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Augurk"
     },
     {
         "naam": "Blauwe Bes",
@@ -916,7 +1006,8 @@
         "zaaienTotKiem": "45",
         "zaaienTotOogst": "730",
         "plantafstand": "75",
-        "categorie": "Vruchtgewassen"
+        "categorie": "Vruchtgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Blauwe_bes"
     },
     {
         "naam": "Bosaardbei",
@@ -926,7 +1017,8 @@
         "zaaienTotKiem": "",
         "zaaienTotOogst": "",
         "plantafstand": "",
-        "categorie": "Vruchtgewassen"
+        "categorie": "Vruchtgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Bosaardbei"
     },
     {
         "naam": "Bramen",
@@ -936,7 +1028,8 @@
         "zaaienTotKiem": "",
         "zaaienTotOogst": "",
         "plantafstand": "",
-        "categorie": "Vruchtgewassen"
+        "categorie": "Vruchtgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Bramen"
     },
     {
         "naam": "Courgette",
@@ -946,7 +1039,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "95",
         "plantafstand": "100",
-        "categorie": "Vruchtgewassen"
+        "categorie": "Vruchtgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Courgette"
     },
     {
         "naam": "Frambozen",
@@ -956,7 +1050,8 @@
         "zaaienTotKiem": "",
         "zaaienTotOogst": "",
         "plantafstand": "",
-        "categorie": "Vruchtgewassen"
+        "categorie": "Vruchtgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Framboos"
     },
     {
         "naam": "Komkommers",
@@ -966,7 +1061,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "100",
         "plantafstand": "15",
-        "categorie": "Vruchtgewassen"
+        "categorie": "Vruchtgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Komkommer"
     },
     {
         "naam": "Maïs",
@@ -976,7 +1072,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "130",
         "plantafstand": "40",
-        "categorie": "Vruchtgewassen"
+        "categorie": "Vruchtgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Maïs"
     },
     {
         "naam": "Meloen",
@@ -986,7 +1083,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "150",
         "plantafstand": "30",
-        "categorie": "Vruchtgewassen"
+        "categorie": "Vruchtgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Meloen"
     },
     {
         "naam": "Pompoen",
@@ -996,17 +1094,19 @@
         "zaaienTotKiem": "20",
         "zaaienTotOogst": "140",
         "plantafstand": "100",
-        "categorie": "Vruchtgewassen"
+        "categorie": "Vruchtgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Pompoen"
     },
     {
         "naam": "Peper",
-        "zaaitijd": "maart tem april",
+        "zaaitijd": "01/03 tem april",
         "zaaitijdBuiten": "juni",
         "oogsttijd": "augustus tem oktober",
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "180",
         "plantafstand": "45",
-        "categorie": "Vruchtgewassen"
+        "categorie": "Vruchtgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Peper"
     },
     {
         "naam": "Suikermaïs",
@@ -1016,7 +1116,8 @@
         "zaaienTotKiem": "15",
         "zaaienTotOogst": "130",
         "plantafstand": "40",
-        "categorie": "Vruchtgewassen"
+        "categorie": "Vruchtgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Suikermaïs"
     },
     {
         "naam": "Tomaten",
@@ -1026,7 +1127,8 @@
         "zaaienTotKiem": "10",
         "zaaienTotOogst": "130",
         "plantafstand": "45",
-        "categorie": "Vruchtgewassen"
+        "categorie": "Vruchtgewassen",
+        "details": "https://nl.wikipedia.org/wiki/Tomaten"
     },
     {
         "naam": "",
