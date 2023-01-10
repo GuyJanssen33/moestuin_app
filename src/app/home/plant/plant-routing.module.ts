@@ -9,11 +9,8 @@ const routes: Routes = [
   {
     path: '',
     component: PlantPage,
-  },
-  {
-    path: 'home',
-    component: HomePage
   }
+
 
 ];
 

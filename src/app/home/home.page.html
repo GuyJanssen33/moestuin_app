@@ -3,7 +3,7 @@
     <ion-title class="HeaderTitle">Moestuin app</ion-title>
     <ion-buttons slot="primary">
       <ion-button>
-        <ion-button [routerLink]="['Plant']" routerLinkActive="active">
+        <ion-button [routerLink]="['plant']" routerLinkActive="active">
           <ion-icon name="add-outline" ></ion-icon>
         </ion-button>
       </ion-button>
@@ -26,7 +26,7 @@
           <ion-item>
 
             <ion-label>Pokémon Yellow</ion-label>
-            <ion-button color="light" size="small" [routerLink]="['details']">Details</ion-button>
+            <ion-button color="light" size="small" [routerLink]="['../home/details']">Details</ion-button>
             <ion-button color="success">
               Favoriet
               <ion-icon slot="end" name="star"></ion-icon>
