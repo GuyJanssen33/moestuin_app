@@ -1,5 +1,5 @@
 export interface Plant{
-    id: number;
+    Id: number;
     naam: string;
     zaaitijd: string;
     zaaitijdBuiten: string;

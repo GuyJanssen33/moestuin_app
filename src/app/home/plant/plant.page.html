@@ -16,69 +16,69 @@
     </ion-label>
   </ion-item>
   <ion-accordion-group>
-  <ion-accordion value="first">
-    <ion-item slot="header" color="light">
-      <ion-label>Categorie</ion-label>
-    </ion-item>
-    <div class="ion-padding" slot="content">
-      <ion-list [inset]="true">
-        <ion-item>
-          <ion-label>Blad- en steelgewassen</ion-label>
-        </ion-item>
-        <ion-item>
-          <ion-label>Knol- en wortelgewassen</ion-label>
-        </ion-item>
-        <ion-item>
-          <ion-label>Ui-achtigen</ion-label>
-        </ion-item>
-        <ion-item>
-          <ion-label>Koolsoorten</ion-label>
-        </ion-item>
-        <ion-item>
-          <ion-label>Peulvruchten</ion-label>
-        </ion-item>
-        <ion-item>
-          <ion-label>Gebleekte Gewassen</ion-label>
-        </ion-item>
-        <ion-item>
-          <ion-label>Vruchtgewassen</ion-label>
-        </ion-item>
-      </ion-list>
-    </div>
-  </ion-accordion>
+    <ion-accordion value="first">
+      <ion-item slot="header" color="light">
+        <ion-label>Categorie</ion-label>
+      </ion-item>
+      <div class="ion-padding" slot="content">
+        <ion-list [inset]="true">
+          <ion-item>
+            <ion-label>Blad- en steelgewassen</ion-label>
+          </ion-item>
+          <ion-item>
+            <ion-label>Knol- en wortelgewassen</ion-label>
+          </ion-item>
+          <ion-item>
+            <ion-label>Ui-achtigen</ion-label>
+          </ion-item>
+          <ion-item>
+            <ion-label>Koolsoorten</ion-label>
+          </ion-item>
+          <ion-item>
+            <ion-label>Peulvruchten</ion-label>
+          </ion-item>
+          <ion-item>
+            <ion-label>Gebleekte Gewassen</ion-label>
+          </ion-item>
+          <ion-item>
+            <ion-label>Vruchtgewassen</ion-label>
+          </ion-item>
+        </ion-list>
+      </div>
+    </ion-accordion>
   </ion-accordion-group>
   <ion-item>
     <ion-label></ion-label>
-    <ion-input placeholder="Naam plant"></ion-input>
+    <ion-input placeholder="Naam plant" [(ngModel)]="naam" type="text"></ion-input>
   </ion-item>
   <ion-item>
     <ion-label></ion-label>
-    <ion-input placeholder="Zaaitijd Binnen/ onder glas"></ion-input>
+    <ion-input placeholder="Zaaitijd Binnen/ onder glas" [(ngModel)]="zaaitijd" type="text"></ion-input>
   </ion-item>
   <ion-item>
     <ion-label></ion-label>
-    <ion-input placeholder="Zaaitijd buiten"></ion-input>
+    <ion-input placeholder="Zaaitijd buiten" [(ngModel)]="zaaitijdBuiten"></ion-input>
   </ion-item>
   <ion-item>
     <ion-label></ion-label>
-    <ion-input placeholder="Oogsttijd"></ion-input>
+    <ion-input placeholder="Oogsttijd" [(ngModel)]="oogsttijd"></ion-input>
   </ion-item>
   <ion-item>
     <ion-label></ion-label>
-    <ion-input placeholder="Aantal dag van zaaien tot kiem"></ion-input>
+    <ion-input placeholder="Aantal dag van zaaien tot kiem" [(ngModel)]="zaaienTotKiem"></ion-input>
   </ion-item>
   <ion-item>
     <ion-label></ion-label>
-    <ion-input placeholder="Aantal dagen van zaaien tot oogst"></ion-input>
+    <ion-input placeholder="Aantal dagen van zaaien tot oogst" [(ngModel)]="zaaienTotOogst"></ion-input>
   </ion-item>
   <ion-item>
     <ion-label></ion-label>
-    <ion-input placeholder="Plantafstand (in cm)"></ion-input>
+    <ion-input placeholder="Plantafstand (in cm)" [(ngModel)]="plantafstand"></ion-input>
   </ion-item>
   <ion-item>
     <ion-label></ion-label>
-    <ion-input placeholder="Details (URL naar website)"></ion-input>
+    <ion-input placeholder="Details (URL naar website)" [(ngModel)]="details"></ion-input>
   </ion-item>
-  <ion-button shape="round" routerLink="home">Terug</ion-button>
-  <ion-button shape="round">Plant toevoegen</ion-button>
+  <ion-button shape="round" [routerLink]="['/']">Terug</ion-button>
+  <ion-button shape="round" (click)="handleCreateAndUpdate()">Plant toevoegen</ion-button>
 </ion-content>

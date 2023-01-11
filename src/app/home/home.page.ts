@@ -1,33 +1,26 @@
-import { Component } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 import {Plant} from "../../Datatypes/Plant";
+import {ApiService} from "../services/api.service";
+import {Observable} from "rxjs";
 
 @Component({
   selector: 'app-home',
   templateUrl: 'home.page.html',
   styleUrls: ['home.page.scss'],
 })
-export class HomePage {
-  PlantList: Plant[] = []
-  #id = 0;
+export class HomePage implements OnInit {
 
 
-  constructor() {
-    for (let i = 0; i < 10; i++) {
-      this.PlantList.push({
-        id: this.#id++,
-        naam: 'Plant ' + this.#id,
-        zaaitijd: 'zaaitijd',
-        zaaitijdBuiten: 'zaaitijdBuiten',
-        oogsttijd: 'oogsttijd',
-        zaaienTotKiem: 'zaaienTotKiem',
-        zaaienTotOogst: 'zaaienTotOogst',
-        plantafstand: 'plantafstand',
-        categorie: 'categorie',
-        details: 'details',
-      })
-    }
+  PlantList= this.ApiService.getPlant();
+
+
+  constructor(public ApiService: ApiService) {
+    this.PlantList.subscribe(plant => console.log(plant));
+    console.log(this.PlantList);}
+
+
+  ngOnInit(): void {
   }
-
 
 }
 

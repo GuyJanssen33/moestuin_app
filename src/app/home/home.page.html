@@ -19,15 +19,21 @@
   <ion-accordion-group>
     <ion-accordion value="first">
       <ion-item slot="header" color="light">
-        <ion-label>First Accordion</ion-label>
+        <ion-label>Blad- en steelgewassen</ion-label>
       </ion-item>
-      <div slot="content">
+      <!--<div slot="content">
         <ion-list [inset]="true">
-          <ion-item>
+          <ion-item *ngFor="let Plant of PlantList">
+            <ion-item *ngIf="Plant.categorie == 'Blad- en steelgewassen'">
+              <ion-label>{{Plant.naam}}</ion-label>
+              <ion-button color="light" size="small" [routerLink]="['details']">Details</ion-button>
+              <ion-button color="success" [routerLink]="['favoriet']">
+                Favoriet
+                <ion-icon slot="end" name="star"></ion-icon>
 
             <ion-label>Pokémon Yellow</ion-label>
-            <ion-button color="light" size="small" [routerLink]="['../home/details']">Details</ion-button>
-            <ion-button color="success">
+            <ion-button color="light" size="small" [routerLink]="['details']">Details</ion-button>
+            <ion-button color="success" [routerLink]="['favoriet']">
               Favoriet
               <ion-icon slot="end" name="star"></ion-icon>
             </ion-button>
@@ -45,7 +51,7 @@
             <ion-label>Super Mario World</ion-label>
           </ion-item>
         </ion-list>
-      </div>
+      </div>-->
     </ion-accordion>
     <ion-accordion value="second">
       <ion-item slot="header" color="light">
